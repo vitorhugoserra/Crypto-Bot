@@ -1,2 +1,2 @@
 # Crypto-Bot
-Bot de operações automatizadas multimercado.
+Robô de operações multimercado desenvolvido pela Oxente Digital.
